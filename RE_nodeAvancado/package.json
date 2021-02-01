@@ -1,0 +1,23 @@
+{
+  "name": "re_nodeavancado",
+  "version": "1.0.0",
+  "description": "Entrega do projeto pratico Entrega do projeto pratico, RECODE PRO 2020 . ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdmarMiller/_nodeJS_.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "CRUD"
+  ],
+  "author": "Edmar Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdmarMiller/_nodeJS_/issues"
+  },
+  "homepage": "https://github.com/EdmarMiller/_nodeJS_#readme"
+}
